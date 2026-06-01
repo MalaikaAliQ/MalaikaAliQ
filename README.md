@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @MalaikaAliQ
-- 👀 I’m interested in coding and learning about all the IT stuff
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects
 - 📫 we can have a conversation by email.
 
